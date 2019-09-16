@@ -82,12 +82,14 @@
             this.mniBasketball.Name = "mniBasketball";
             this.mniBasketball.Size = new System.Drawing.Size(180, 22);
             this.mniBasketball.Text = "Basketball";
+            this.mniBasketball.Click += new System.EventHandler(this.MniBasketball_Click);
             // 
             // mniFootball
             // 
             this.mniFootball.Name = "mniFootball";
             this.mniFootball.Size = new System.Drawing.Size(180, 22);
             this.mniFootball.Text = "football";
+            this.mniFootball.Click += new System.EventHandler(this.MniFootball_Click);
             // 
             // contextMenuStrip1
             // 
@@ -97,21 +99,21 @@
             // lblSportType
             // 
             this.lblSportType.AutoSize = true;
-            this.lblSportType.Font = new System.Drawing.Font("Proxy 3", 72F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSportType.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSportType.ForeColor = System.Drawing.Color.Red;
-            this.lblSportType.Location = new System.Drawing.Point(115, 49);
+            this.lblSportType.Location = new System.Drawing.Point(147, 48);
             this.lblSportType.Name = "lblSportType";
-            this.lblSportType.Size = new System.Drawing.Size(0, 117);
+            this.lblSportType.Size = new System.Drawing.Size(0, 108);
             this.lblSportType.TabIndex = 2;
             // 
             // lblFavPlayer
             // 
             this.lblFavPlayer.AutoSize = true;
-            this.lblFavPlayer.Font = new System.Drawing.Font("OpenSymbol", 48F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblFavPlayer.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblFavPlayer.ForeColor = System.Drawing.Color.SaddleBrown;
             this.lblFavPlayer.Location = new System.Drawing.Point(124, 265);
             this.lblFavPlayer.Name = "lblFavPlayer";
-            this.lblFavPlayer.Size = new System.Drawing.Size(0, 64);
+            this.lblFavPlayer.Size = new System.Drawing.Size(0, 73);
             this.lblFavPlayer.TabIndex = 3;
             // 
             // frmSpots

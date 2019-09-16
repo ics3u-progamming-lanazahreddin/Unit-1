@@ -62,6 +62,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="SportsForm.resx">
       <DependentUpon>SportsForm.cs</DependentUpon>
@@ -78,6 +79,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="tennisplayer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="basketballplayer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="footballplayer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sports.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="soccerplayer.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -14,11 +14,13 @@ namespace SportsLanaZE
     {
         public frmSpots()
         {
+            this.BackgroundImage = Properties.Resources.sports;
             InitializeComponent();
         }
 
         private void SoccerToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            this.BackgroundImage = Properties.Resources.soccerplayer;
             this.lblSportType.Text = "Soccer";
             this.lblFavPlayer.Text = "Christiano ronaldo";
         }
@@ -36,7 +38,23 @@ namespace SportsLanaZE
 
         private void MniTennis_Click(object sender, EventArgs e)
         {
-            
+            this.BackgroundImage = Properties.Resources.tennisplayer;
+            this.lblSportType.Text = "Tennis";
+            this.lblFavPlayer.Text = "Bianca Andreescu";
+        }
+
+        private void MniBasketball_Click(object sender, EventArgs e)
+        {
+            this.BackgroundImage = Properties.Resources.basketballplayer;
+            this.lblSportType.Text = "Basketball";
+            this.lblFavPlayer.Text = "LeBron James";
+        }
+
+        private void MniFootball_Click(object sender, EventArgs e)
+        {
+            this.BackgroundImage = Properties.Resources.footballplayer;
+            this.lblSportType.Text = "Football";
+            this.lblFavPlayer.Text = "Odell Beckham Jr";
         }
     }
 }
