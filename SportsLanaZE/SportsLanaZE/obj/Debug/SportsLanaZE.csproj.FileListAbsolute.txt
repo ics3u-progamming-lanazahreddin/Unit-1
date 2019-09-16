@@ -18,3 +18,13 @@ C:\Users\lanaz\Desktop\ICS3U\Unit-1\SportsLanaZE\SportsLanaZE\obj\Debug\SportsLa
 C:\Users\lanaz\Desktop\ICS3U\Unit-1\SportsLanaZE\SportsLanaZE\obj\Debug\SportsLanaZE.csproj.CoreCompileInputs.cache
 C:\Users\lanaz\Desktop\ICS3U\Unit-1\SportsLanaZE\SportsLanaZE\obj\Debug\SportsLanaZE.exe
 C:\Users\lanaz\Desktop\ICS3U\Unit-1\SportsLanaZE\SportsLanaZE\obj\Debug\SportsLanaZE.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\SportsLanaZE\SportsLanaZE\bin\Debug\SportsLanaZE.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\SportsLanaZE\SportsLanaZE\bin\Debug\SportsLanaZE.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\SportsLanaZE\SportsLanaZE\bin\Debug\SportsLanaZE.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\SportsLanaZE\SportsLanaZE\obj\Debug\SportsLanaZE.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\SportsLanaZE\SportsLanaZE\obj\Debug\SportsLanaZE.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\SportsLanaZE\SportsLanaZE\obj\Debug\SportsLanaZE.frmSpots.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\SportsLanaZE\SportsLanaZE\obj\Debug\SportsLanaZE.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\SportsLanaZE\SportsLanaZE\obj\Debug\SportsLanaZE.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\SportsLanaZE\SportsLanaZE\obj\Debug\SportsLanaZE.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\SportsLanaZE\SportsLanaZE\obj\Debug\SportsLanaZE.pdb
