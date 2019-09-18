@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\MovingCatLanaZE\MovingCatLanaZE\bin\Debug\MovingCatLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\MovingCatLanaZE\MovingCatLanaZE\bin\Debug\MovingCatLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\MovingCatLanaZE\MovingCatLanaZE\bin\Debug\MovingCatLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\MovingCatLanaZE\MovingCatLanaZE\obj\Debug\MovingCatLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\MovingCatLanaZE\MovingCatLanaZE\obj\Debug\MovingCatLanaZE.frmMovingCat.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\MovingCatLanaZE\MovingCatLanaZE\obj\Debug\MovingCatLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\MovingCatLanaZE\MovingCatLanaZE\obj\Debug\MovingCatLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\MovingCatLanaZE\MovingCatLanaZE\obj\Debug\MovingCatLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\MovingCatLanaZE\MovingCatLanaZE\obj\Debug\MovingCatLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\MovingCatLanaZE\MovingCatLanaZE\obj\Debug\MovingCatLanaZE.pdb
