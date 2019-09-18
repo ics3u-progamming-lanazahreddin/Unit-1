@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solv
 N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\AreaPerLanaZE\AreaPerLanaZE\obj\Debug\AreaPerLanaZE.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\AreaPerLanaZE\AreaPerLanaZE\obj\Debug\AreaPerLanaZE.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\AreaPerLanaZE\AreaPerLanaZE\obj\Debug\AreaPerLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\AreaPerLanaZE\AreaPerLanaZE\obj\Debug\AreaPerLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\AreaPerLanaZE\AreaPerLanaZE\obj\Debug\AreaPerLanaZE.frmAreaPer.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\AreaPerLanaZE\AreaPerLanaZE\obj\Debug\AreaPerLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\AreaPerLanaZE\AreaPerLanaZE\obj\Debug\AreaPerLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\AreaPerLanaZE\AreaPerLanaZE\obj\Debug\AreaPerLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\AreaPerLanaZE\AreaPerLanaZE\obj\Debug\AreaPerLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\AreaPerLanaZE\AreaPerLanaZE\obj\Debug\AreaPerLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\AreaPerLanaZE\AreaPerLanaZE\bin\Debug\AreaPerLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\AreaPerLanaZE\AreaPerLanaZE\bin\Debug\AreaPerLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-1\AreaPerLanaZE\AreaPerLanaZE\bin\Debug\AreaPerLanaZE.pdb

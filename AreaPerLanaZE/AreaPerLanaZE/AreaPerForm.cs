@@ -45,6 +45,13 @@ namespace AreaPerLanaZE
             // Show the labels back on the screen when the calculate button is hit
             this.lblPerAnswer.Show();
             this.lblAreaAnswer.Show();
+            this.lblPer.Show();
+            this.lblArea.Show();
+        }
+
+        private void LblPer_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
