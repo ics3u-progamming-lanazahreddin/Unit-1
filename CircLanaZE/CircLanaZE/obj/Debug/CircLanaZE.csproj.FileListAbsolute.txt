@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\CircLanaZE\CircLanaZE\bin\Debug\CircLanaZE.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\CircLanaZE\CircLanaZE\bin\Debug\CircLanaZE.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\CircLanaZE\CircLanaZE\bin\Debug\CircLanaZE.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\CircLanaZE\CircLanaZE\obj\Debug\CircLanaZE.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\CircLanaZE\CircLanaZE\obj\Debug\CircLanaZE.frmCirc.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\CircLanaZE\CircLanaZE\obj\Debug\CircLanaZE.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\CircLanaZE\CircLanaZE\obj\Debug\CircLanaZE.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\CircLanaZE\CircLanaZE\obj\Debug\CircLanaZE.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\CircLanaZE\CircLanaZE\obj\Debug\CircLanaZE.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 1 (Problem Solving)\Unit-1\CircLanaZE\CircLanaZE\obj\Debug\CircLanaZE.pdb
