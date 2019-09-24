@@ -52,5 +52,10 @@ namespace MovingCatLanaZE
         {
 
         }
+
+        private void FrmMovingCat_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

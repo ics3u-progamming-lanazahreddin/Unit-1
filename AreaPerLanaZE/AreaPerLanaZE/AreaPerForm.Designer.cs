@@ -52,8 +52,7 @@
             this.fileToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Padding = new System.Windows.Forms.Padding(8, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(1067, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -62,13 +61,13 @@
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.exitToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(46, 24);
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
             this.fileToolStripMenuItem.Text = "File";
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(116, 26);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(93, 22);
             this.exitToolStripMenuItem.Text = "Exit";
             // 
             // contextMenuStrip1
@@ -81,10 +80,9 @@
             // 
             this.lblLength.AutoSize = true;
             this.lblLength.Font = new System.Drawing.Font("Comic Sans MS", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblLength.Location = new System.Drawing.Point(105, 100);
-            this.lblLength.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblLength.Location = new System.Drawing.Point(79, 81);
             this.lblLength.Name = "lblLength";
-            this.lblLength.Size = new System.Drawing.Size(270, 66);
+            this.lblLength.Size = new System.Drawing.Size(214, 52);
             this.lblLength.TabIndex = 2;
             this.lblLength.Text = "Length (m)";
             // 
@@ -92,27 +90,24 @@
             // 
             this.lblWidth.AutoSize = true;
             this.lblWidth.Font = new System.Drawing.Font("Comic Sans MS", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblWidth.Location = new System.Drawing.Point(105, 226);
-            this.lblWidth.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblWidth.Location = new System.Drawing.Point(79, 184);
             this.lblWidth.Name = "lblWidth";
-            this.lblWidth.Size = new System.Drawing.Size(258, 66);
+            this.lblWidth.Size = new System.Drawing.Size(204, 52);
             this.lblWidth.TabIndex = 3;
             this.lblWidth.Text = "Width (m)";
             // 
             // txtLength
             // 
-            this.txtLength.Location = new System.Drawing.Point(449, 125);
-            this.txtLength.Margin = new System.Windows.Forms.Padding(4);
+            this.txtLength.Location = new System.Drawing.Point(337, 102);
             this.txtLength.Name = "txtLength";
-            this.txtLength.Size = new System.Drawing.Size(269, 22);
+            this.txtLength.Size = new System.Drawing.Size(203, 20);
             this.txtLength.TabIndex = 4;
             // 
             // txtWidth
             // 
-            this.txtWidth.Location = new System.Drawing.Point(449, 261);
-            this.txtWidth.Margin = new System.Windows.Forms.Padding(4);
+            this.txtWidth.Location = new System.Drawing.Point(337, 212);
             this.txtWidth.Name = "txtWidth";
-            this.txtWidth.Size = new System.Drawing.Size(269, 22);
+            this.txtWidth.Size = new System.Drawing.Size(203, 20);
             this.txtWidth.TabIndex = 5;
             // 
             // btnCalculate
@@ -120,10 +115,9 @@
             this.btnCalculate.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.btnCalculate.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.2F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCalculate.ForeColor = System.Drawing.Color.Maroon;
-            this.btnCalculate.Location = new System.Drawing.Point(797, 157);
-            this.btnCalculate.Margin = new System.Windows.Forms.Padding(4);
+            this.btnCalculate.Location = new System.Drawing.Point(598, 128);
             this.btnCalculate.Name = "btnCalculate";
-            this.btnCalculate.Size = new System.Drawing.Size(232, 81);
+            this.btnCalculate.Size = new System.Drawing.Size(174, 66);
             this.btnCalculate.TabIndex = 6;
             this.btnCalculate.Text = "Calculate";
             this.btnCalculate.UseVisualStyleBackColor = false;
@@ -133,10 +127,9 @@
             // 
             this.lblPer.AutoSize = true;
             this.lblPer.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPer.Location = new System.Drawing.Point(236, 368);
-            this.lblPer.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblPer.Location = new System.Drawing.Point(177, 299);
             this.lblPer.Name = "lblPer";
-            this.lblPer.Size = new System.Drawing.Size(235, 36);
+            this.lblPer.Size = new System.Drawing.Size(196, 29);
             this.lblPer.TabIndex = 7;
             this.lblPer.Text = "The perimeter is:";
             this.lblPer.Click += new System.EventHandler(this.LblPer_Click);
@@ -145,10 +138,9 @@
             // 
             this.lblArea.AutoSize = true;
             this.lblArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblArea.Location = new System.Drawing.Point(236, 453);
-            this.lblArea.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblArea.Location = new System.Drawing.Point(177, 368);
             this.lblArea.Name = "lblArea";
-            this.lblArea.Size = new System.Drawing.Size(170, 36);
+            this.lblArea.Size = new System.Drawing.Size(140, 29);
             this.lblArea.TabIndex = 8;
             this.lblArea.Text = "The area is:";
             // 
@@ -156,27 +148,25 @@
             // 
             this.lblPerAnswer.AutoSize = true;
             this.lblPerAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPerAnswer.Location = new System.Drawing.Point(697, 374);
-            this.lblPerAnswer.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblPerAnswer.Location = new System.Drawing.Point(523, 304);
             this.lblPerAnswer.Name = "lblPerAnswer";
-            this.lblPerAnswer.Size = new System.Drawing.Size(0, 29);
+            this.lblPerAnswer.Size = new System.Drawing.Size(0, 24);
             this.lblPerAnswer.TabIndex = 9;
             // 
             // lblAreaAnswer
             // 
             this.lblAreaAnswer.AutoSize = true;
             this.lblAreaAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblAreaAnswer.Location = new System.Drawing.Point(697, 459);
-            this.lblAreaAnswer.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblAreaAnswer.Location = new System.Drawing.Point(523, 373);
             this.lblAreaAnswer.Name = "lblAreaAnswer";
-            this.lblAreaAnswer.Size = new System.Drawing.Size(0, 29);
+            this.lblAreaAnswer.Size = new System.Drawing.Size(0, 24);
             this.lblAreaAnswer.TabIndex = 10;
             // 
             // frmAreaPer
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.lblAreaAnswer);
             this.Controls.Add(this.lblPerAnswer);
             this.Controls.Add(this.lblArea);
@@ -188,9 +178,9 @@
             this.Controls.Add(this.lblLength);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmAreaPer";
             this.Text = "Area and Perimeter of Rectangle by Lana ZE";
+            this.Load += new System.EventHandler(this.FrmAreaPer_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

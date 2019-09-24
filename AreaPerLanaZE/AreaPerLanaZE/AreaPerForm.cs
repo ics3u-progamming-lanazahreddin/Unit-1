@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Lana ZE
+ * Created on: 24-09-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #7 - Area and perimeter of a rectangle
+ * This program calculates the area and the perimeter of a rectangle with a given length and width
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -50,6 +57,11 @@ namespace AreaPerLanaZE
         }
 
         private void LblPer_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FrmAreaPer_Load(object sender, EventArgs e)
         {
 
         }
